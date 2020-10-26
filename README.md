@@ -1,6 +1,22 @@
-# Learn to Build Ecommerce Websites and Apps using JAMstack in Baby Steps
+# Learn to Build Ecommerce Websites and Apps using JAMstack
+
+[What is Ecommerce?](https://www.shopify.com/encyclopedia/what-is-ecommerce)
+
+[What is Ecommerce in 2020?](https://ecommerceguide.com/guides/what-is-ecommerce/)
+
+[Building an eCommerce Website](https://www.hostgator.com/blog/get-ecommerce-website-running/)
 
 [Is JAMstack Right for Your Ecommerce Business?](https://www.practicalecommerce.com/is-jamstack-right-for-your-ecommerce-business)
+
+[9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)
+
+[What do we know about Pakistan's ecommerce industry?](https://www.dawn.com/news/1549691)
+
+[Is Pakistan ready to go cashless?](https://www.dawn.com/news/1581827)
+
+[Digital banking grows 12pc, paper-based transactions down 10pc in FY20](https://profit.pakistantoday.com.pk/2020/10/11/digital-banking-grows-12pc-paper-based-transactions-down-10pc-in-fy20/)
+
+[No matter how obstructive the present be, ecommerce is the future](https://www.thenews.com.pk/print/711489-no-matter-how-obstructive-the-present-be-ecommerce-is-the-future)
 
 
 ### Payment Gateways
@@ -55,3 +71,21 @@
 ### Delivery Services
 
 [List of Delivery Services in Pakistan](https://clarity.pk/delivery-services/list-of-delivery-services-in-pakistan/)
+
+
+### Ecommerce Investments in Pakistand and Developing Countries
+
+[Retailo raises USD 2.3 million pre-seed for its B2B ecommerce marketplace in Saudi & Pakistan](https://kr-asia.com/retailo-raises-usd-2-3-million-pre-seed-for-its-b2b-ecommerce-marketplace-in-saudi-pakistan)
+
+[Miniso has acquired ToSharing for around $7 million to expand eCommerce operations in Pakistan](https://www.techjuice.pk/miniso-has-acquired-tosharing-for-around-7-million-to-expand-ecommerce-operations-in-pakistan/)
+
+[Pakistani e-commerce platform PriceOye announces six-figure funding in recent round](https://profit.pakistantoday.com.pk/2020/08/29/pakistani-e-commerce-platform-priceoye-secures-six-figure-funding-in-recent-round/)
+
+[Pakistani baby products ecommerce platform Baby Planet raises $250,000 led by High Output Ventures](https://www.menabytes.com/baby-planet-seed/)
+
+[Pakistan’s Tajir raises $1.8 million for its B2B ecommerce marketplace that helps mom-and-pop stores source inventory](https://www.menabytes.com/tajir-pakistan-1-8-million/)
+
+[Two Pakistanis on mission to revolutionize e-commerce industry](https://nation.com.pk/12-Jul-2020/two-pakistanis-on-mission-to-revolutionize-e-commerce-industry)
+
+[Want to become an ecommerce millionaire? These eight business models are up for grabs](https://dailytimes.com.pk/633731/want-to-become-an-ecommerce-millionaire-these-eight-business-models-are-up-for-grabs/)
+
