@@ -75,7 +75,7 @@
 [List of Delivery Services in Pakistan](https://clarity.pk/delivery-services/list-of-delivery-services-in-pakistan/)
 
 
-### Ecommerce Investments in Pakistand and Developing Countries
+### Ecommerce Investments in Pakistan and Developing Countries
 
 [Retailo raises USD 2.3 million pre-seed for its B2B ecommerce marketplace in Saudi & Pakistan](https://kr-asia.com/retailo-raises-usd-2-3-million-pre-seed-for-its-b2b-ecommerce-marketplace-in-saudi-pakistan)
 
