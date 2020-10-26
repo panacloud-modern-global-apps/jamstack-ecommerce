@@ -17,3 +17,5 @@
 [Netlify Functions Example](https://github.com/alexmacarthur/netlify-lambda-function-example/blob/68a0cdc05e201d68fe80b0926b0af7ff88f15802/lambda-src/purchase.js#L43)
 
 [Using Stripe in React Notes](https://nancyhuynh-til.netlify.app/stripe-react-notes/)
+
+[Stripe Custom Payment Flow](https://stripe.com/docs/payments/integration-builder)
