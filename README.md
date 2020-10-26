@@ -18,6 +18,8 @@
 
 [No matter how obstructive the present be, ecommerce is the future](https://www.thenews.com.pk/print/711489-no-matter-how-obstructive-the-present-be-ecommerce-is-the-future)
 
+[First e-commerce index shows increase in digital payments and growing demand for online shopping](https://nation.com.pk/17-Apr-2020/first-e-commerce-index-shows-increase-in-digital-payments-and-growing-demand-for-online-shopping)
+
 
 ### Payment Gateways
 
@@ -88,4 +90,10 @@
 [Two Pakistanis on mission to revolutionize e-commerce industry](https://nation.com.pk/12-Jul-2020/two-pakistanis-on-mission-to-revolutionize-e-commerce-industry)
 
 [Want to become an ecommerce millionaire? These eight business models are up for grabs](https://dailytimes.com.pk/633731/want-to-become-an-ecommerce-millionaire-these-eight-business-models-are-up-for-grabs/)
+
+[US-based venture capital fund backs Pakistani e-commerce platform PriceOye.pk](https://www.dawn.com/news/1577370)
+
+[Dastgyr Pakistani Startup Raises Six-Figure Investment For Its B2B E-Commerce Marketplace](https://www.technologytimes.pk/2020/08/25/dastgyr-raises-six-figure-investment-for-its-b2b-ecommerce-marketplace/)
+
+[Sequoia India, Flourish Ventures lead $22.5m round in Bangladeshi B2B commerce startup](https://www.techinasia.com/sequoia-india-flourish-ventures-invest-bangladesh-b2b-commerce-startup-shopup)
 
