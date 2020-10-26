@@ -28,3 +28,9 @@
 [The Shopify GraphQL Learning Kit](https://www.shopify.com/partners/blog/shopify-graphql-learning-kit)
 
 [Developer changelog](https://shopify.dev/changelog)
+
+[Build a Shopify App with Node and React](https://shopify.dev/tutorials/build-a-shopify-app-with-node-and-react)
+
+[Casestudy: How Fostr used Headless Shopify and the Jamstack to power e-commerce on Victoria Beckham Beauty](https://www.netlify.com/customers/victoria-beckham-beauty/)
+
+[Creating a Shopify app using Serverless tech](https://phawk.co.uk/blog/shopify-apps-using-serverless/)
