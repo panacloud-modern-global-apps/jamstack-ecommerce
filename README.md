@@ -6,6 +6,8 @@
 
 [Building an eCommerce Website](https://www.hostgator.com/blog/get-ecommerce-website-running/)
 
+[A Developer’s Guide to Headless E-Commerce 2020](https://snipcart.com/blog/headless-ecommerce-guide)
+
 [Is JAMstack Right for Your Ecommerce Business?](https://www.practicalecommerce.com/is-jamstack-right-for-your-ecommerce-business)
 
 [9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)

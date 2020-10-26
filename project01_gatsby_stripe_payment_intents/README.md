@@ -13,4 +13,3 @@
 [React components for Stripe.js and Elements](https://github.com/stripe/react-stripe-js)
 
 [React Stripe.js Reference](https://stripe.com/docs/stripe-js/react)
-
