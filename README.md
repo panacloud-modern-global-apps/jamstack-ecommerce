@@ -14,7 +14,7 @@ If you don't have web programming background or don't know React or Serverless w
 
 [9 Best eCommerce Solutions for Jamstack Websites](https://bejamas.io/blog/jamstack-ecommerce/)
 
-### Local Ecommmerce
+### Local Ecommerce
 
 [What do we know about Pakistan's ecommerce industry?](https://www.dawn.com/news/1549691)
 
