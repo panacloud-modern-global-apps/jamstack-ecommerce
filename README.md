@@ -1,5 +1,7 @@
 # Learn to Build Ecommerce Websites and Apps using JAMstack
 
+If you don't have web programming background or don't know React or Serverless we suggest you start from this [app development foundation bootcamp](https://panacloud.github.io/bootcamp-2020/) and [JAMstack Serverless Repo](https://github.com/panacloud-modern-global-apps/jamstack-serverless).
+
 [What is Ecommerce?](https://www.shopify.com/encyclopedia/what-is-ecommerce)
 
 [What is Ecommerce in 2020?](https://ecommerceguide.com/guides/what-is-ecommerce/)
