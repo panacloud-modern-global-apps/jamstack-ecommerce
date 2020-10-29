@@ -7,6 +7,10 @@ If you don't have web programming background or don't know React or Serverless w
 
 [Intro Class in English on YouTube](https://www.youtube.com/watch?v=u3KOcuxvb5w)
 
+[Intro Class in Urdu on facebook](https://www.facebook.com/zeeshanhanif/videos/10224865871098937/)
+
+[Intro Class in Urdu on YouTube](https://www.youtube.com/watch?v=c11-JmxKJfc) 
+
 [What is Ecommerce?](https://www.shopify.com/encyclopedia/what-is-ecommerce)
 
 [What is Ecommerce in 2020?](https://ecommerceguide.com/guides/what-is-ecommerce/)
