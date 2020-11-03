@@ -26,3 +26,15 @@ Stripe Checkout is a prebuilt payment page that you can redirect your customer t
 [Gatsby E-commerce Tutorial](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
 
 [Five things I learned by building my own shopping cart and checkout with Gatsby and Stripe](https://dev.to/nhuynh1/five-things-i-learned-by-building-my-own-shopping-cart-and-checkout-with-gatsby-and-stripe-273k)
+
+
+### Project Building Videos
+
+[Building Project 00 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224888744070747/)
+
+[Building Project 00 Video in English on YouTube](https://www.youtube.com/watch?v=cextuS_GgVI)
+
+[Building Project 00 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224899533580478/)
+
+[Building Project 00 Video in Urdu on YouTube](https://www.youtube.com/watch?v=Jhg8URgZH-s)
+
