@@ -19,3 +19,13 @@
 [Using Stripe in React Notes](https://nancyhuynh-til.netlify.app/stripe-react-notes/)
 
 [Stripe Custom Payment Flow](https://stripe.com/docs/payments/integration-builder)
+
+### Project Building Videos
+
+[Building Project 01 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224918482854198/)
+
+[Building Project 01 Video in English on YouTube](https://www.youtube.com/watch?v=tamOJxju7fg)
+
+[Building Project 01 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224927228272828/)
+
+[Building Project 01 Video in Urdu on YouTube](https://www.youtube.com/watch?v=vzeLykEV87w)
