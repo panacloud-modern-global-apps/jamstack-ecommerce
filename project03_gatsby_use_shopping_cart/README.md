@@ -3,3 +3,9 @@
 [USE-SHOPPING-CART](https://useshoppingcart.com/)
 
 [USE-SHOPPING-CART EXAMPLES](https://github.com/dayhaysoos/use-shopping-cart/tree/master/examples)
+
+Project Video Tutorial
+
+[Buiding Project 03 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10224984117135014/)
+
+[Building Project 03 Video in English on YouTube](https://www.youtube.com/watch?v=tYGlZI4OPIs)
