@@ -112,3 +112,7 @@ If you don't have web programming background or don't know React or Serverless w
 
 [Sequoia India, Flourish Ventures lead $22.5m round in Bangladeshi B2B commerce startup](https://www.techinasia.com/sequoia-india-flourish-ventures-invest-bangladesh-b2b-commerce-startup-shopup)
 
+### UI Design
+
+[Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
+

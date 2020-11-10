@@ -34,3 +34,5 @@
 [Casestudy: How Fostr used Headless Shopify and the Jamstack to power e-commerce on Victoria Beckham Beauty](https://www.netlify.com/customers/victoria-beckham-beauty/)
 
 [Creating a Shopify app using Serverless tech](https://phawk.co.uk/blog/shopify-apps-using-serverless/)
+
+[Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
