@@ -36,3 +36,12 @@
 [Creating a Shopify app using Serverless tech](https://phawk.co.uk/blog/shopify-apps-using-serverless/)
 
 [Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
+
+
+[Building Project 04/example01 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225017709934813/)
+
+[Building Project 04/example01 Video in English on YouTube](https://www.youtube.com/watch?v=Unz_REIRjpg)
+
+[Building Project 04/example01 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225025711294842/)
+
+[Building Project 04 Video/example01 in Urdu on YouTube](https://www.youtube.com/watch?v=tNcpbyt0a6g)
