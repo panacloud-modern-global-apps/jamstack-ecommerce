@@ -54,5 +54,9 @@
 
 [Building Project 04 Part 2 Video in Urdu on YouTube](https://www.youtube.com/watch?v=mz2ChgziBBk)
 
+[Building Project 04 Part 3 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225098638837985)
+
+[Building Project 04 Part 3 Video in English on YouTube](https://www.youtube.com/watch?v=xeAw__ofxtc)
+
 
 
