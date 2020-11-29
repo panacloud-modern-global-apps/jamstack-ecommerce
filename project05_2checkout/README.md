@@ -14,3 +14,10 @@
 
 [2Checkout Node.js Library](https://github.com/2Checkout/2checkout-node)
 
+Videos
+
+[Building Project 05 and 06 Video in English on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225129468128698)
+
+[Building Project 05 and 06 Video in English on YouTube](https://www.youtube.com/watch?v=dKHANO9U6IU)
+
+
