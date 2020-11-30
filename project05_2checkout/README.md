@@ -20,4 +20,8 @@ Videos
 
 [Building Project 05 and 06 Video in English on YouTube](https://www.youtube.com/watch?v=dKHANO9U6IU)
 
+[Project 05 and 06 Video in Urdu on Facebook](https://www.facebook.com/zeeshanhanif/videos/10225139989951737)
+
+[Project 05 and 06 Video in Urdu on YouTube](https://www.youtube.com/watch?v=5BK_R0MBL-c)
+
 
